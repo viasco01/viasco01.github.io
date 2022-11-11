@@ -1,0 +1,59 @@
+.main {
+    margin: 0px;
+    background-color: darkgray;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.button-design {
+    background-color: red;
+    align-self: center;
+    text-align: center;
+    font-size: 100px;
+    border-radius: 50px;
+    border: 5px orange solid;
+    width: 50%;
+    height: 50%;
+}
+
+.button-container {
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+
+.button-design:hover {
+    background-color: darkred;
+    border-color: darkorange;
+}
+
+.button2 {
+    background-color: blue;
+    border-color: cyan;
+}
+
+.button2:hover {
+    background-color: darkblue;
+    border-color: darkcyan;
+}
+
+.button3 {
+    background-color: green;
+    border-color: lime;
+}
+
+.button3:hover {
+    background-color: darkgreen;
+    border-color: green;
+}
+
+.button4 {
+    background-color: magenta;
+    border-color: pink;
+}
+
+.button4:hover {
+    background-color: darkmagenta;
+    border-color: indianred;
+}

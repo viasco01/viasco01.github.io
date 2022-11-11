@@ -1,0 +1,32 @@
+.main {
+    margin: 0px;
+    background-color: darkgray;
+    flex: 1;
+}
+
+table,
+th,
+td {
+    padding: 5px;
+    margin: 5px;
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+
+.table-design {
+    font-size: 100px;
+    text-align: center;
+}
+
+.crosses {
+    background-color: lime;
+}
+
+.cirkels {
+    background-color: red;
+}
+
+.table-header {
+    font-size: 125px;
+    background-color: blue;
+}

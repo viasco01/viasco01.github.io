@@ -1,0 +1,40 @@
+.main {
+    background-color: darkgray;
+    flex: 1;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-area:
+        "a b c d"
+        "e f g h";
+}
+
+.componentbutton {
+    display: flex;
+    background-color: white;
+    border-radius: 50px;
+    border: rgb(22, 4, 103) solid 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-button {
+    box-sizing: border-box;
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.main-navigation {
+    box-sizing: border-box;
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+    font-size: 35px;
+}

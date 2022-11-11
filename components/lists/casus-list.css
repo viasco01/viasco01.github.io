@@ -1,0 +1,36 @@
+.main {
+    margin: 0px;
+    background-color: darkgray;
+    flex: 1;
+    display: flex;
+}
+
+.list-style {
+    padding-left: 20px;
+    margin: 50px;
+    font-size: 19px;
+    color: red;
+}
+
+.list-container {
+    width: 50%;
+    height: 50%;
+    text-decoration: solid underline black;
+}
+
+.resizer {
+    width: 50%;
+    height: 100%;
+}
+
+.list-style2 {
+    color: blue;
+}
+
+.list-style3 {
+    color: green;
+}
+
+.list-style4 {
+    color: cyan;
+}

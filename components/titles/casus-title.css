@@ -1,0 +1,38 @@
+.title-container {
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+
+.title-design {
+    align-self: center;
+    text-align: center;
+    width: 50%;
+    color: darkblue;
+    font-size: 250px;
+}
+
+.main {
+    margin: 0px;
+    background-color: darkgray;
+    flex: 1;
+}
+
+.link {
+    width: 100%;
+}
+
+.title2 {
+    color: red;
+    font-size: 200px;
+}
+
+.title3 {
+    color: cyan;
+    font-size: 150px;
+}
+
+.title4 {
+    color: lime;
+    font-size: 100px;
+}

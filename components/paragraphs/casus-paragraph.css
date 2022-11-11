@@ -1,0 +1,21 @@
+.main {
+    margin: 0px;
+    background-color: darkgray;
+    flex: 1;
+}
+
+.paragraph-design {
+    font-size: 50px;
+}
+
+.rode-text {
+    color: red;
+}
+
+.grote-text {
+    font-size: 100px;
+}
+
+.doorstreepte-text {
+    text-decoration: line-through solid black;
+}
